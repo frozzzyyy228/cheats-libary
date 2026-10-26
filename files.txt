@@ -1,1 +1,1 @@
-neptunium:root | pc:cheat:standoff2:Internal free cheat
+neptunium:root | pc:cheat:standoff2:Internal free cheat:neptunium:loader.exe
